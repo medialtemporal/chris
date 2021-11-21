@@ -1,4 +1,4 @@
-# C.H.R.I.S. (Cycling Human Readable Instrumental Score)
+# C.H.R.I.S. (Cycling Human-Readable Instrumental Score)
 Guitar hero--but for real, live guitars. 
 
 ## Inspiration
