@@ -1,6 +1,8 @@
 # C.H.R.I.S. (Cycling Human-Readable Instrumental Score)
 Guitar hero--but for real, live guitars. 
 
+Created by Adrian Koziskie, Sonia Persaud, Rachel Barboza, and Matas Keras
+
 ## Inspiration
 Our friend Chris is a pretty epic guitarist. So we made C.H.R.I.S. to help him and guitar players like him practice and play better. 
 
